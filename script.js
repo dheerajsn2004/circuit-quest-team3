@@ -1,6 +1,6 @@
 const questions = [
     { q: "A whisper of control at my gate unleashes a river beyond. I am the bridge between weak and strong signals. Who am I?", a: "BJT || Transistor", room: "Room 405" },
-    { q: "I devour electrons and return them as luminescence, yet a wrong approach leaves me in darkness. What am I?", a: "LED", room: "AEC Lab" },
+    { q: "I devour electrons and return them as luminescence, yet a wrong approach leaves me in darkness. What am I?", a: "LED || Light Emitting Diode", room: "AEC Lab" },
     { q: "I stand guard, allowing only a forward march, but in reverse, I shut the gates. Who am I?", a: "Diode", room: "Room 303" }
 ];
 
